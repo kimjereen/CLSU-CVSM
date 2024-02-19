@@ -78,7 +78,7 @@ h1 {
   background-color: var(--fade-blue);
   border-color: var(--fade-blue);
 }
-p.card-caption {
+p {
   font-size: 12px;
   line-height: 1.5;
 }
@@ -144,7 +144,7 @@ p.card-caption {
   margin-right: 10px;
   margin-bottom: -5px;
 }
-/* News and Announcement  Carousel Slides */
+/* News and Announcement (Latest News)  */
 #news-carousel {
   position: relative;
 }
@@ -158,16 +158,38 @@ p.card-caption {
   background: linear-gradient(to top, var(--secondary), transparent);
   z-index: 1;
 }
+.news-carousel .inner-carousel .carousel-item img {
+  border-radius: 5px;
+}
+/* News and Announcements (Upcoming Events)*/
 .card-caption {
   margin-bottom: 0px;
 }
 /* News & Announcement Upcoming Events */
-.calendar.calendar-header {
-  background-color: var(--primary);
+.calendar {
+  background: white;
+  border-radius: 5px;
 }
-
-.calendar.calendar-body {
+.calendar-left {
+  border-radius: 5px;
+}
+.event-header {
+  background: var(--primary);
+  height: 30%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.event-body {
   background-color: var(--tertiary);
+  height: 70%;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.event-des-title {
+  height: 40%;
+}
+.event-des-caption {
+  max-height: 40%;
 }
 
 

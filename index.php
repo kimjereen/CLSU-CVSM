@@ -101,7 +101,7 @@
       <div class="row">
 
       <!-- LATEST NEWS -->
-        <div class="col-sm-8 p-3 bg-primary text-white">
+        <div class="col-sm-8 p-3 bg-primary">
           <div class="d-flex justify-content-between align-items-center bg-secondary mb-3">
             <h5 class="section-subtitle">Latest News</h5>
             <span><a class="navbar-brand" href="#">See all</a></span>
@@ -110,7 +110,7 @@
           <!-- News Carousel -->
           <div id="news-carousel" class="carousel slide" data-bs-ride="carousel">
 
-              <div class="carousel-inner" style="height: 300px;">
+              <div class="carousel-inner text-white" style="height: 300px;">
                   <div class="carousel-item active h-100">
                       <img src="assets/images/home/home-carousel1.jpeg" class="d-block w-100 object-fit-cover" alt="Top News">
                       <div class="carousel-caption text-start">
@@ -147,7 +147,7 @@
         </div>
 
         <!-- UPCOMING EVENTS -->
-        <div class="col-sm-4 p-3 bg-dark text-white">
+        <div class="col-sm-4 p-3 bg-dark">
           <div class="d-flex justify-content-between align-items-center bg-secondary mb-3">
             <h5 class="section-subtitle">Upcoming Events</h5>
             <span><a class="navbar-brand" href="#">See all</a></span>
@@ -155,45 +155,58 @@
 
           <!-- The Events -->
           <div class="container-fluid" style="height: 300px;">
-            <div class="row bg-secondary mb-2" style="height: 95px;">
-                <div class="calendar col-4 text-center">
-                    <div class="row bg-secondary align-items-center calendar-header" style="height: 30%;">
+            <div class="calendar row mb-2" style="height: 95px;">
+                <div class="col-4 text-center text-white">
+                    <div class="row align-items-center event-header">
                       <span>February</span>
                     </div>
-                    <div class="row align-items-center calendar-body" style="height: 70%;">
+                    <div class="row align-items-center event-body">
                       <h2>26-28</h2>
                     </div>
                 </div>
-                <div class="col-8">
-                    
+                <div class="col-8 event-description justify-content-center">
+                    <div class="row event-des-title align-items-end">
+                        <h6>Examination this week</h6>
+                    </div>
+                    <div class="row event-des-caption align-items-start">
+                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                    </div>
                 </div>
             </div>
-            <div class="row bg-secondary mb-2" style="height: 95px;">
-                <div class="calendar col-4 text-center">
-                    <div class="row bg-secondary align-items-center calendar-header" style="height: 30%;">
+            <div class="calendar row mb-2" style="height: 95px;">
+                <div class="col-4 text-center text-white">
+                    <div class="row align-items-center event-header">
                       <span>February</span>
                     </div>
-                    <div class="row align-items-center calendar-body" style="height: 70%;">
+                    <div class="row align-items-center event-body">
                       <h2>26-28</h2>
                     </div>
                 </div>
-                <div class="col-sm-8">
-                    <!-- Content for the second column of the second row -->
-                    Column 2, Row 2
+                <div class="col-8 event-description justify-content-center">
+                    <div class="row event-des-title align-items-end">
+                        <h6>Examination this week</h6>
+                    </div>
+                    <div class="row event-des-caption align-items-start">
+                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                    </div>
                 </div>
             </div>
-            <div class="row bg-secondary" style="height: 95px;">
-                <div class="calendar col-4 text-center">
-                    <div class="row bg-secondary align-items-center calendar-header" style="height: 30%;">
+            <div class="calendar row mb-2" style="height: 95px;">
+                <div class="col-4 text-center text-white">
+                    <div class="row align-items-center event-header">
                       <span>February</span>
                     </div>
-                    <div class="row align-items-center calendar-body" style="height: 70%;">
+                    <div class="row align-items-center event-body">
                       <h2>26-28</h2>
                     </div>
                 </div>
-                <div class="col-sm-8">
-                    <!-- Content for the second column of the third row -->
-                    Column 2, Row 3
+                <div class="col-8 event-description justify-content-center">
+                    <div class="row event-des-title align-items-end">
+                        <h6>Examination this week</h6>
+                    </div>
+                    <div class="row event-des-caption align-items-start">
+                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                    </div>
                 </div>
             </div>
           </div>
