@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,800');
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700,800,900');
+
+/*
+TABLE OF CONTENTS
+  DEFAULT
+    00. Color Palette
+    01. General 
+    02. Header (Navigation bar)
+    03. Home
+    04. About
+    05. Academic Programs
+    06. Research & Publications
+    07. News & Announcements
+    08. Resource & Facilities
+    09. Extension
+    10. Footer
+
+
+  RESPONSIVE
+    - 900px
+    - 1000px
+
+
+*/
+
+/*-----------------------------------*/
+/*             DEFAULT               */
+/*-----------------------------------*/
+
+/* 00. COLOR PALETTE */
+:root {
+    --primary: #2D0097; /* Blue */
+    --secondary: #100036; /* Dark Blue */
+    --tertiary: #E8D203; /* Yellow */
+    --fade-blue: #260B66;
+    --gray: #757575;
+    --dark-gray: #212121;
+    --bg: #f0f0f0;
+}  
+
+
+
+/* 01. GENERAL */
+html,
+body {
+  font-size: 15px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  vertical-align: baseline;
+  line-height: 26px;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto', sans-serif;
+}
+h1 {
+  display: inline-block;
+  width: 80%;
+  font-size: 50px;
+  font-weight: 700;
+}
+.btn-primary {
+  background-color: var(--primary);
+  color: white;
+  border-color: var(--primary); 
+  padding: 9px;
+  width: 130px;
+}
+.btn-primary:hover {
+  background-color: var(--fade-blue);
+  border-color: var(--fade-blue);
+}
+p.card-caption {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+
+
+/* 02. HEADER (navigation bar) */
+/* Custom CSS for transparent navbar */
+.navbar {
+  background-color: transparent !important;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+  transition: background-color 0.4s ease;
+}
+.navbar.scrolled {
+  background-color: white !important;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+.navbar .nav-link.active {
+  color: var(--tertiary);
+}
+.navbar .nav-link:hover {
+  color: var(--tertiary);
+}
+.navbar .nav-link {
+  color: white;
+}
+.navbar.scrolled .nav-link{
+  color: black;
+}
+.navbar.scrolled .nav-link:hover {
+  color: var(--tertiary);
+}
+.navbar .nav-link.active {
+  color: var(--tertiary);
+}
+
+/* 03. HOME */
+/* Home Carousel Slides */
+/* Home Gradient */
+.gradient-overlay {
+  background: linear-gradient(to right, var(--secondary), transparent);
+  z-index: 1;
+}
+.carousel-control-prev, .carousel-control-next, .carousel-caption {
+  z-index: 2;
+}
+
+/* News and Announcement */
+.section-title {
+  color: var(--primary);
+}
+.section-subtitle::before {
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 30px;
+  background-color: var(--tertiary);
+  margin-right: 10px;
+  margin-bottom: -5px;
+}
+/* News and Announcement  Carousel Slides */
+#news-carousel {
+  position: relative;
+}
+#news-carousel::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  background: linear-gradient(to top, var(--secondary), transparent);
+  z-index: 1;
+}
+.card-caption {
+  margin-bottom: 0px;
+}
+/* News & Announcement Upcoming Events */
+.calendar.calendar-header {
+  background-color: var(--primary);
+}
+
+.calendar.calendar-body {
+  background-color: var(--tertiary);
+}
+
+
+
+
+
+
+
+
+
+/* 10. FOOTER */
+.footer {
+  background-color: var(--secondary);
+}
+footer .nav-link {
+  color: smokeywhite;
+}
+.footer-end {
+  width: 150%;
+  height: 20px;
+  margin-left: -20px;
+  background-color: var(--primary);
+}
+
+/*-----------------------------------*/
+/*            RESPONSIVE             */
+/*-----------------------------------*/
+
+@media screen and (max-width: 1100px) {
+  h1 {
+      font-size: 40px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+      font-size: 30px;
+  }
+}
+
+
+
+
+
