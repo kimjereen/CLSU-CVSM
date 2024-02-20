@@ -50,7 +50,7 @@
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
           <div class="carousel-item active">
-              <img src="assets/images/home/home-carousel1.jpeg" alt="Los Angeles" class="d-block w-100 vh-100 object-fit-cover">
+              <img src="assets/images/home/home-carousel1.jpeg" alt="carousel 1" class="d-block w-100 vh-100 object-fit-cover">
               
               <!-- IF THEY WANT DIFF CAPTION IN EVERY CAROUSEL use this template in every carousel-item -->
               <!--<div class="container">
@@ -71,10 +71,10 @@
 
           </div>
           <div class="carousel-item">
-              <img src="assets/images/home/home-carousel2.jpeg" alt="Chicago" class="d-block w-100 vh-100 object-fit-cover">
+              <img src="assets/images/home/home-carousel2.jpeg" alt="carousel 2" class="d-block w-100 vh-100 object-fit-cover">
           </div>
           <div class="carousel-item">
-              <img src="assets/images/home/home-carousel3.jpg" alt="New York" class="d-block w-100 vh-100 object-fit-cover">
+              <img src="assets/images/home/home-carousel3.jpg" alt="carousel 3" class="d-block w-100 vh-100 object-fit-cover">
           </div>
         </div>
 
@@ -113,7 +113,7 @@
 
               <div class="carousel-inner text-white" style="height: 300px;">
                   <div class="carousel-item active h-100">
-                      <img src="assets/images/home/home-carousel1.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
+                      <img src="assets/images/temporary/Student - pig.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
                       <div class="carousel-caption text-start">
                           <h4>CLSU College of Veterinary Science and Medicine breed a new type of pig</h4>
                           <p class="card-caption">Just In! Central Luzon State University, College of Veterinary Science and Medicine breed a new type of pig. this pig is so big as a human</p>
