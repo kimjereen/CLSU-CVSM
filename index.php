@@ -250,7 +250,7 @@
           <div class="col-md-6">
           <div class="container">
             <div class="card rounded">
-                <img src="assets/images/temporary/CVSM_1.jpg" class="card-img-top" alt="Image">
+                <img src="assets/images/temporary/CVSM_1.jpeg" class="card-img-top" alt="Image">
                 <div class="card-overlay"></div>
                 <div class="card-body  text-center">
                   <h5 class="card-title">Master of Veterinary Medicine</h5>
