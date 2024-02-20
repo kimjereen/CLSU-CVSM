@@ -35,22 +35,23 @@
                 <h6 class="text-white">Pages</h6>
                 <ul class="nav flex-column footer-offwhite">
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">About</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Academic Programs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Research</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Updates</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Resource & Facilities</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Extension</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">About</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Academic Programs</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Research</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Updates</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Resource & Facilities</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Extension</a></li>
                 </ul>
                 </div>
 
                 <div class="col">
                 <h6 class="text-white">Quick Links</h6>
                 <ul class="nav flex-column footer-offwhite">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">CLSU</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">OVPAA</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">OAD</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Student Portal</a></li>
+                    <li class="nav-item mb-2"><a href="https://clsu.edu.ph/" class="nav-link p-0 ">CLSU</a></li>
+                    <li class="nav-item mb-2"><a href="https://clsu-ovpaa.edu.ph/" class="nav-link p-0 ">OVPAA</a></li>
+                    <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/" class="nav-link p-0 ">OAD</a></li>
+                    <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/star/user-login/" class="nav-link p-0 ">Student Portal</a></li>
+                    <li class="nav-item mb-2"><a href="assets/coming-soon/index.html" class="nav-link p-0 ">Login</a></li>
                 </ul>
                 </div>
 
