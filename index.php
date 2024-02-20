@@ -366,7 +366,7 @@
               <!-- Begin loop -->
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel1.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/Student - fish.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
@@ -381,7 +381,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel2.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/Student - centrifuge.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
 
                       <div class="card-logo-container d-flex">
@@ -396,7 +396,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel1.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/Student - vitamin sheep.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
