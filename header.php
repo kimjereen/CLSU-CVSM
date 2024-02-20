@@ -38,38 +38,38 @@
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Research & Publications</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Research</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Link</a></li>
-            <li><a class="dropdown-item" href="#">Another link</a></li>
-            <li><a class="dropdown-item" href="#">A third link</a></li>
+            <li><a class="dropdown-item" href="#">On-going Project</a></li>
+            <li><a class="dropdown-item" href="#">Publication</a></li>
+            <li><a class="dropdown-item" href="#">Research Partners</a></li>
           </ul>
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">News & Announcements</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Updates</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Link</a></li>
-            <li><a class="dropdown-item" href="#">Another link</a></li>
-            <li><a class="dropdown-item" href="#">A third link</a></li>
+            <li><a class="dropdown-item" href="#">News</a></li>
+            <li><a class="dropdown-item" href="#">Events & Announcements</a></li>
           </ul>
         </li>
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Resource & Facilities</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Link</a></li>
-            <li><a class="dropdown-item" href="#">Another link</a></li>
-            <li><a class="dropdown-item" href="#">A third link</a></li>
+            <li><a class="dropdown-item" href="#">Lecture Halls</a></li>
+            <li><a class="dropdown-item" href="#">Laboratories/a></li>
+            <li><a class="dropdown-item" href="#">CenTrAD</a></li>
+            <li><a class="dropdown-item" href="#">e-Histology</a></li>
           </ul>
         </li>
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Extension</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Link</a></li>
-            <li><a class="dropdown-item" href="#">Another link</a></li>
-            <li><a class="dropdown-item" href="#">A third link</a></li>
+            <li><a class="dropdown-item" href="#">Vet Mission</a></li>
+            <li><a class="dropdown-item" href="#">Cattle Dispersal</a></li>
+            <li><a class="dropdown-item" href="#">Veterinary Teaching Hospital</a></li>
           </ul>
         </li>
 
@@ -77,3 +77,5 @@
     </div>
   </div>
 </nav>
+
+

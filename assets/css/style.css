@@ -37,7 +37,10 @@ TABLE OF CONTENTS
     --fade-blue: #260B66;
     --gray: #757575;
     --dark-gray: #212121;
-    --bg: #f0f0f0;
+    --bg: #f9f9f9;
+    --primary-opacity: rgba(45, 0, 151, 0.9);
+    --secondary-opacity: rgba(16, 0, 54, 0.9);
+    --gray-opacity: rgba(33, 33, 33, 0.9);
 }  
 
 
@@ -47,6 +50,7 @@ html,
 body {
   font-size: 15px;
   color: black;
+  background-color: var(--bg);
   font-family: 'Roboto', sans-serif;
   vertical-align: baseline;
   line-height: 26px;
@@ -78,10 +82,26 @@ h1 {
   background-color: var(--fade-blue);
   border-color: var(--fade-blue);
 }
+.card-btn{
+  background-color: var(--primary);
+  color: white;
+  border-color: var(--primary); 
+}
+.card-btn:hover {
+  background-color: var(--fade-blue);
+  border-color: var(--fade-blue);
+}
 p {
   font-size: 12px;
   line-height: 1.5;
 }
+.rounded {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+
 
 
 
@@ -119,9 +139,12 @@ p {
 .navbar .nav-link.active {
   color: var(--tertiary);
 }
+.navbar.scrolled .navbar-toggler.scrolled .navbar-toggler-icon {
+  color: black;
+}
 
 /* 03. HOME */
-/* Home Carousel Slides */
+/* Home Carousel Slides OVERVIEW */
 /* Home Gradient */
 .gradient-overlay {
   background: linear-gradient(to right, var(--secondary), transparent);
@@ -131,7 +154,7 @@ p {
   z-index: 2;
 }
 
-/* News and Announcement */
+/* News and Announcement OVERVIEW */
 .section-title {
   color: var(--primary);
 }
@@ -158,54 +181,223 @@ p {
   background: linear-gradient(to top, var(--secondary), transparent);
   z-index: 1;
 }
-.news-carousel .inner-carousel .carousel-item img {
+.news-img img {
   border-radius: 5px;
+  object-fit: cover;
+  z-index: 1;
 }
 /* News and Announcements (Upcoming Events)*/
 .card-caption {
   margin-bottom: 0px;
 }
-/* News & Announcement Upcoming Events */
 .calendar {
   background: white;
-  border-radius: 5px;
-}
-.calendar-left {
   border-radius: 5px;
 }
 .event-header {
   background: var(--primary);
   height: 30%;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
 }
 .event-body {
   background-color: var(--tertiary);
   height: 70%;
-  border-bottom-right-radius: 5px;
-  border-bottom-left-radius: 5px;
 }
 .event-des-title {
   height: 40%;
 }
-.event-des-caption {
+.event-des-text {
   max-height: 40%;
+}
+/* Academic Programs OVERVIEW */
+.card {
+  border: none;
+  overflow: hidden;
+  position: relative;
+  height: 250px;
+  display: block;
+}
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.card-overlay {
+  padding: 1rem;
+  background: linear-gradient(to top, var(--secondary), transparent); 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+  transition: height 0.5s ease;
+}
+.card:hover .card-overlay {
+  height: 200%;
+}
+.card-body {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  color: white;
+  display: block;
+  transition: visibility 1s ease;
+  z-index: 2;
+}
+.card-body1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  color: white;
+  display: block;
+  transition: visibility 1s ease;
+  z-index: 2;
+}
+.card-body2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  color: white;
+  display: none;
+  transition: visibility 5s ease;
+  z-index: 2;
+}
+.card:hover .card-body {
+  display: none;
+}
+.card:hover .card-body2 {
+  display: block;
+}
+/* About and Research & Publications OVERVIEW */
+.four-view img {
+  width: 100%;
+  height: 320px;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+.four-view iframe {
+  height: 320px;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+.ov-image-container {
+  position: relative;
+  overflow: hidden;
+}
+.ov-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, var(--primary-opacity), var(--secondary-opacity));
+}
+.ov-content {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+  color: white;
+  z-index: 3;
+}
+.ov-title {
+  color: var(--tertiary);
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.ov-description {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+/* Facilities and Card */
+.card-logo {
+  width: 40px;
+  display: inline-block;
+}
+.card-logo-container {
+  top: 10px;
+  width: 25px;
+  position: absolute;
+  right: 40px;
+  gap: 5px;
+}
+.card .card-facilities img {
+  height: 100px;
+}
+/* Department */
+/* Accordion */
+.accordion-button:not(.collapsed),
+.accordion-button:not(.collapsed):hover  {
+  background-color: var(--primary);
+  color: white; 
+  border: none;
+}
+.accordion-button.collapsed {
+  background-color: white;
+  color: var(--secondary); 
+  border: none;
+}
+/* Accordion Content */
+#accordion-img {
+  position: relative;
+}
+#accordion-img::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to right, var(--secondary), transparent);
+  z-index: 2;
+}
+.accordion-img img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  z-index: 1;
+}
+.accordion-body .ov-content {
+  top: 50%;
+  left: 25%;
 }
 
 
-
-
-
-
-
+/* 04. ABOUT */
+/* 03. ACADEMIC PROGRAMS  */
+/* 03. RESEARCH & PUBLICATIONS */
+/* 03. NEWS & ANNOUNCEMENTS */
+/* 03. RESOURCE & FACILITIES */
+/* 03. EXTENSION */
 
 
 /* 10. FOOTER */
 .footer {
-  background-color: var(--secondary);
+  background-color: var(--gray-opacity);
 }
-footer .nav-link {
-  color: smokeywhite;
+.footer-bg {
+  position: relative;
+}
+.footer-bg-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 105%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1; 
+}
+.footer {
+  position: relative;
+  z-index: 2;
 }
 .footer-end {
   width: 150%;
@@ -213,6 +405,19 @@ footer .nav-link {
   margin-left: -20px;
   background-color: var(--primary);
 }
+.footer .footer-offwhite {
+  color: #cbcbcb;
+}
+/* Footer title color */
+.footer h5, .footer h6 {
+  color: white;
+}
+.footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
 
 /*-----------------------------------*/
 /*            RESPONSIVE             */
