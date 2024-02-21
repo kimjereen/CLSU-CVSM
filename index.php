@@ -282,7 +282,7 @@
         <!-- About Us Learn More -->
         <div class="col-md-6 position-relative">
           <div class="ov-image-container">
-            <img src="assets/images/temporary/Student - Dog checking.jpeg" class="img-fluid" alt="Picture 2">
+            <img src="assets/images/temporary/bones.jpg" class="img-fluid" alt="Picture 2">
             <div class="ov-overlay"></div>
             <div class="ov-content">
               <h3 class="ov-title">About Us</h3>
@@ -311,7 +311,7 @@
 
         <!-- Research & Publications Picture-->
         <div class="col-md-6">
-          <img src="assets/images/temporary/Student - Catheter.jpeg" class="img-fluid" alt="Picture 4">
+          <img src="assets/images/temporary/Student - milking.jpeg" class="img-fluid" alt="Picture 4">
         </div>
       </div>
     </div>
