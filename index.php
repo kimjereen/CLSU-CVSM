@@ -311,7 +311,7 @@
 
         <!-- Research & Publications Picture-->
         <div class="col-md-6">
-          <img src="assets/images/temporary/Student - milking.jpeg" class="img-fluid" alt="Picture 4">
+          <img src="assets/images/temporary/sir errol.jpg" class="img-fluid" alt="Picture 4">
         </div>
       </div>
     </div>
@@ -337,10 +337,10 @@
                 <div class="d-flex justify-content-between align-items-center">
                   <div>
                   <div class="row event-des-title align-items-end">
-                        <h6>Examination this week</h6>
+                        <h6>At CLSU CVSM, students are equipped with tools to excel in veterinary medicine.</h6>
                     </div>
                     <div class="row event-des-text align-items-start">
-                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                        <p>By its extensive array of resources and state-of-the-art facilities dedicated to advancing veterinary education, research, and clinical practice. These resources play a pivotal role in providing students with hands-on training, facilitating cutting-edge research, and delivering high-quality veterinary care to animals.</p>
                     </div>
                   </div>
                   
@@ -438,10 +438,10 @@
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body p-0">
               <div id="accordion-img" class="accordion-img">
-                <img src="assets/images/home/facade.jpg" class="img-fluid" alt="Picture 4">
+                <img src="assets/images/temporary/bones.jpg" class="img-fluid" alt="Picture 4">
                 <div class="ov-content">
-                    <h3 class="ov-title">Your Title Here</h3>
-                    <p class="ov-description">Your text description here...</p>
+                    <h3 class="ov-title">The Department of Morphophysiology and Pharmacology</h3>
+                    <p class="ov-description">Explore anatomy, physiology, and pharmacology in animals at CLSU CVSM, unraveling the intricacies of living organisms.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
@@ -456,19 +456,17 @@
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-            <div class="accordion-body">
-              <div id="accordion-img" class="accordion-img">
-                <img src="assets/images/home/facade.jpg" class="img-fluid" alt="Picture 4">
-                <div class="ov-content">
-                    <h3 class="ov-title">Your Title Here</h3>
-                    <p class="ov-description">Your text description here...</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+            <div class="accordion-body p-0">
+                <div id="accordion-img" class="accordion-img">
+                  <img src="assets/images/temporary/Student - milking.jpeg" class="img-fluid" alt="Picture 4">
+                  <div class="ov-content">
+                      <h3 class="ov-title">The Department of Animal Management</h3>
+                      <p class="ov-description">Delve into animal care, behavior, and welfare at CLSU CVSM, equipping students to manage diverse animal populations with compassion and skill.</p>
+                      <a href="#" class="btn btn-primary">Learn More</a>
+                  </div>
                 </div>
               </div>
-              <br>
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
             </div>
-          </div>
         </div>
 
         <div class="accordion-item">
@@ -478,17 +476,15 @@
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
-            <div class="accordion-body">
+            <div class="accordion-body p-0">
               <div id="accordion-img" class="accordion-img">
-                <img src="assets/images/home/facade.jpg" class="img-fluid" alt="Picture 4">
+                <img src="assets/images/temporary/Student - fish.jpeg" class="img-fluid" alt="Picture 4">
                 <div class="ov-content">
-                    <h3 class="ov-title">Your Title Here</h3>
-                    <p class="ov-description">Your text description here...</p>
+                    <h3 class="ov-title">The Department of Pathobiology</h3>
+                    <p class="ov-description">Investigate disease processes in animals at CLSU CVSM, preparing students to diagnose, treat, and prevent diseases for enhanced animal health.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
-              <br>
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
             </div>
           </div>
         </div>
@@ -500,17 +496,15 @@
             </button>
           </h2>
           <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
-            <div class="accordion-body">
+            <div class="accordion-body p-0">
               <div id="accordion-img" class="accordion-img">
-                <img src="assets/images/home/facade.jpg" class="img-fluid" alt="Picture 4">
+                <img src="assets/images/temporary/Student- centrifuge.jpeg" class="img-fluid" alt="Picture 4">
                 <div class="ov-content">
-                    <h3 class="ov-title">Your Title Here</h3>
-                    <p class="ov-description">Your text description here...</p>
+                    <h3 class="ov-title">The Department of Clinical Science</h3>
+                    <p class="ov-description">Gain hands-on experience in veterinary care at CLSU CVSM, where students learn to diagnose and treat a variety of medical and surgical conditions in animals.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
-              <br>
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
             </div>
           </div>
         </div>
