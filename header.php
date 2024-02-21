@@ -58,7 +58,7 @@
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Resource & Facilities</a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="assets/coming-soon/index.html">Lecture Halls</a></li>
-            <li><a class="dropdown-item" href="assets/coming-soon/index.html">Laboratories/a></li>
+            <li><a class="dropdown-item" href="assets/coming-soon/index.html">Laboratories</a></li>
             <li><a class="dropdown-item" href="assets/coming-soon/index.html">CenTrAD</a></li>
             <li><a class="dropdown-item" href="assets/coming-soon/index.html">e-Histology</a></li>
           </ul>

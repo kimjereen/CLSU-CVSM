@@ -232,7 +232,7 @@
           <div class="col-md-6">
             <div class="container">
             <div class="card rounded">
-                <img src="assets/images/temporary/CVSM_3.jpg" class="card-img-top" alt="Image">
+                <img src="assets/images/temporary/Student - Dog checking.jpeg" class="img-fluid" alt="Image">
                 <div class="card-overlay"></div>
                 <div class="card-body  text-center">
                   <h5 class="card-title">Doctors of Veterinary Medicine</h5>
@@ -250,13 +250,13 @@
           <div class="col-md-6">
           <div class="container">
             <div class="card rounded">
-                <img src="assets/images/temporary/CVSM_1.jpeg" class="card-img-top" alt="Image">
+                <img src="assets/images/temporary/CVSM_3.jpg" class="img-fluid" alt="Image">
                 <div class="card-overlay"></div>
                 <div class="card-body  text-center">
-                  <h5 class="card-title">Master of Veterinary Medicine</h5>
+                  <h5 class="card-title">Master of Veterinary Studies</h5>
                 </div>
                 <div class="card-body2  text-center">
-                  <h5 class="card-title">Doctors of Veterinary Medicine</h5>
+                  <h5 class="card-title">Master of Veterinary Studies</h5>
                   <p class="card-text">MVSt is a 2-year post-graduate degree for veterinarians designed to specialize in either Veterinary Public Health or Veterinary Preventive Medicine.</p>
                   <p><a class="btn btn-sm card-btn" href="#">Learn More</a></p>
                 </div>
@@ -282,7 +282,7 @@
         <!-- About Us Learn More -->
         <div class="col-md-6 position-relative">
           <div class="ov-image-container">
-            <img src="assets/images/Student - Dog checking.jpeg" class="img-fluid" alt="Picture 2">
+            <img src="assets/images/temporary/Student - Dog checking.jpeg" class="img-fluid" alt="Picture 2">
             <div class="ov-overlay"></div>
             <div class="ov-content">
               <h3 class="ov-title">About Us</h3>
@@ -366,7 +366,7 @@
               <!-- Begin loop -->
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/temporary/Student - fish.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/lecture.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
@@ -381,7 +381,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/temporary/Student - centrifuge.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/home/home-carousel2.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
 
                       <div class="card-logo-container d-flex">
@@ -396,7 +396,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/temporary/Student - vitamin sheep.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/centrad.png" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
@@ -532,7 +532,7 @@
           <div class="row row-cols-1 row-cols-md-3">
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel1.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/vetmission.png" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
@@ -547,7 +547,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel2.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/cattle.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
 
                       <div class="card-logo-container d-flex">
@@ -562,7 +562,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/home/home-carousel1.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/home/home-carousel3.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
                       
                       <div class="card-logo-container d-flex">
