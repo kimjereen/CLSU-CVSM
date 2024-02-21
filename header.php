@@ -74,7 +74,7 @@
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Extension</a>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu dropdown-menu-lg-end">
               <li><a class="dropdown-item" href="assets/coming-soon/index.html">Vet Mission</a></li>
               <li><a class="dropdown-item" href="assets/coming-soon/index.html">Cattle Dispersal</a></li>
               <li><a class="dropdown-item" href="assets/coming-soon/index.html">Veterinary Teaching Hospital</a></li>
