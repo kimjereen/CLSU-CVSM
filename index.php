@@ -334,18 +334,19 @@
           <div class="container-fluid my-4">
             <div class="calendar row rounded align-items-center pt-4 pb-3 px-5">
               
-                <div class="col-10 event-description justify-content-center">
-                    <div class="row event-des-title align-items-end">
+                <div class="d-flex justify-content-between align-items-center">
+                  <div>
+                  <div class="row event-des-title align-items-end">
                         <h6>Examination this week</h6>
                     </div>
                     <div class="row event-des-text align-items-start">
                         <p>The 1st term examination is scheduled this february 26-28 2024.</p>
                     </div>
-                </div>
-
-                <div class="col-2 text-center text-white">
+                  </div>
+                  
                   <p><a class="btn btn-primary" href="#">Learn More</a></p>
                 </div>
+
             </div>
           </div>
       </div>
@@ -357,6 +358,7 @@
             <h5 class="section-subtitle">Facilities</h5>
             <span><a class="navbar-brand text-muted" href="#">See all</a></span>
         </div>
+
 
           <!-- Facilities Card Lists -->
           <div class="row row-cols-1 row-cols-md-3 my-3">
