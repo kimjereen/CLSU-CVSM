@@ -100,10 +100,6 @@ p {
   overflow: hidden;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
-.img-fluid {
-  display: block;
-  margin: auto;
-}
 
 
 
@@ -133,7 +129,7 @@ p {
 .navbar .nav-link {
   color: white;
 }
-.navbar.scrolled .nav-link{
+.navbar.scrolled .nav-link,.navbar.scrolled .cvsm{
   color: black;
 }
 .navbar.scrolled .nav-link:hover {
@@ -142,9 +138,32 @@ p {
 .navbar .nav-link.active {
   color: var(--tertiary);
 }
-.navbar.scrolled .navbar-toggler.scrolled .navbar-toggler-icon {
+.navbar-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.custom-toggler {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.custom-toggler-icon {
+  color: white;
+}
+.navbar.scrolled .custom-toggler-icon {
   color: black;
 }
+.offcanvas {
+  background-color: var(--gray-opacity);
+}
+.navbar.scrolled .offcanvas {
+  background-color: white;
+}
+
+
 
 /* 03. HOME */
 /* Home Carousel Slides OVERVIEW */

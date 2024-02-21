@@ -7,8 +7,8 @@
                 <div class="col-sm-4">
                     <!-- School logos -->
                     <div class="d-flex align-items-center mb-3">
-                        <img src="assets/images/clsu-logo.png" alt="CLSU Logo" class="img-fluid" style="max-height: 40px; margin-right: 10px;">
-                        <img src="assets/images/cvsm-logo.png" alt="CVSM Logo" class="img-fluid" style="max-height: 40px;">
+                        <img src="assets/images/clsu-logo.png" alt="CLSU Logo" style="max-height: 40px; margin-right: 10px;">
+                        <img src="assets/images/cvsm-logo.png" alt="CVSM Logo" style="max-height: 40px;">
                     </div>
                     <!-- School name -->
                     <span class="footer-offwhite">Central Luzon State University</span>

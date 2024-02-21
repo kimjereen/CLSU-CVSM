@@ -10,6 +10,8 @@
     <!-- Bootstrap 5  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- icon -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
@@ -43,7 +45,7 @@
             <h1>COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
             <p>"Veterinarians for the Countryside"</p>
             <br>
-            <p><a class="btn btn-primary" href="#">Learn More</a></p>
+            <p><a class="btn btn-primary" href="assets/coming-soon/index.html">Learn More</a></p>
           </div>
         </div>
 
@@ -65,7 +67,7 @@
                   </div>
                   <h1>COLLEGE OF VETERINARY <br>SCIENCE AND MEDICINE</h1>
                   <p>"Veterinarians for the Countryside"</p>
-                  <p><a class="btn btn-md btn-primary" href="#">Learn More</a></p>
+                  <p><a class="btn btn-md btn-primary" href="assets/coming-soon/index.html">Learn More</a></p>
                 </div>
               </div>-->
 
@@ -113,23 +115,23 @@
 
               <div class="carousel-inner text-white" style="height: 300px;">
                   <div class="carousel-item active h-100">
-                      <img src="assets/images/temporary/Student - pig.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
+                      <img src="assets/images/temporary/kaye.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
                       <div class="carousel-caption text-start">
-                          <h4>CLSU College of Veterinary Science and Medicine breed a new type of pig</h4>
-                          <p class="card-caption">Just In! Central Luzon State University, College of Veterinary Science and Medicine breed a new type of pig. this pig is so big as a human</p>
+                          <h4>Triumph at NCVMS: CLSU Students Shine in Cebu</h4>
+                          <p class="card-caption">CLSU students clinch victory at the 20th National Congress of Veterinary Medicine Students in Cebu, showcasing excellence in case presentations and creative skits</p>
                       </div>
                   </div>
                   <div class="carousel-item h-100">
-                      <img src="assets/images/home/home-carousel2.jpeg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
+                      <img src="assets/images/temporary/ligtas.png" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
                       <div class="carousel-caption text-start">
-                          <h4>CLSU College of Veterinary Science and Medicine breed a new type of pig</h4>
-                          <p class="card-caption">Just In! Central Luzon State University, College of Veterinary Science and Medicine breed a new type of pig. this pig is so big as a human</p>
+                          <h4>LIGTAS-CLSU Wins 1st Place: Advocacy Against Drugs</h4>
+                          <p class="card-caption">CLSU’s LIGTAS poster on drug abuse prevention clinches top spot at LEAD Cebu 2024, reinforcing commitment to drug education and awareness.</p>
                       </div>
                   </div>
                   <div class="carousel-item h-100">
-                      <img src="assets/images/home/home-carousel3.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
+                      <img src="assets/images/temporary/clsu vth.png" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Top News">
                       <div class="carousel-caption text-start">
-                          <h4>CLSU College of Veterinary Science and Medicine breed a new type of pig</h4>
+                          <h4>Promoting Safety: CLSU-VTH's Stray Animal Handling Campaign</h4>
                           <p class="card-caption">Just In! Central Luzon State University, College of Veterinary Science and Medicine breed a new type of pig. this pig is so big as a human</p>
                       </div>
                   </div>
@@ -151,7 +153,7 @@
         <div class="col-lg-4 p-3">
           <div class="d-flex justify-content-between align-items-center mb-3">
             <h5 class="section-subtitle">Upcoming Events</h5>
-            <span><a class="navbar-brand text-muted" href="#">See all</a></span>
+            <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
           </div>
 
           <!-- The Events -->
@@ -162,15 +164,15 @@
                       <span>February</span>
                     </div>
                     <div class="row align-items-center event-body">
-                      <h2>26-28</h2>
+                      <h2>23</h2>
                     </div>
                 </div>
                 <div class="col-8 event-description justify-content-center">
                     <div class="row event-des-title align-items-end">
-                        <h6>Examination this week</h6>
+                        <h6>WEBINAR ALERT!</h6>
                     </div>
                     <div class="row event-des-text align-items-start">
-                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                        <p>Learn about Freshwater Eel Management on February 23, 2024, 2-4 PM.</p>
                     </div>
                 </div>
             </div>
@@ -180,15 +182,15 @@
                       <span>February</span>
                     </div>
                     <div class="row align-items-center event-body">
-                      <h2>26-28</h2>
+                      <h2>23</h2>
                     </div>
                 </div>
                 <div class="col-8 event-description justify-content-center">
                     <div class="row event-des-title align-items-end">
-                        <h6>Examination this week</h6>
+                        <h6>WEBINAR ALERT!</h6>
                     </div>
                     <div class="row event-des-text align-items-start">
-                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                        <p>Learn about Freshwater Eel Management on Feb 23, 2024, 2-4 PM.</p>
                     </div>
                 </div>
             </div>
@@ -198,15 +200,15 @@
                       <span>February</span>
                     </div>
                     <div class="row align-items-center event-body">
-                      <h2>26-28</h2>
+                      <h2>23</h2>
                     </div>
                 </div>
                 <div class="col-8 event-description justify-content-center">
                     <div class="row event-des-title align-items-end">
-                        <h6>Examination this week</h6>
+                        <h6>WEBINAR ALERT!</h6>
                     </div>
                     <div class="row event-des-text align-items-start">
-                        <p>The 1st term examination is scheduled this february 26-28 2024.</p>
+                        <p>Learn about Freshwater Eel Management on February 23, 2024, 2-4 PM.</p>
                     </div>
                 </div>
             </div>
@@ -240,7 +242,7 @@
                 <div class="card-body2  text-center">
                   <h5 class="card-title">Doctors of Veterinary Medicine</h5>
                   <p class="card-text">DVM is a 6-year curricular program designed to  produce well-balanced veterinarians, knowledgeable in animal production, welfare and One Health.</p>
-                  <p><a class="btn btn-sm card-btn" href="#">Learn More</a></p>
+                  <p><a class="btn btn-sm card-btn" href="assets/coming-soon/index.html">Learn More</a></p>
                 </div>
             </div>
             </div>
@@ -276,7 +278,8 @@
 
         <!-- About Us Video-->
         <div class="col-md-6 bg-primary g-0">
-          <iframe src="https://www.youtube.com/embed/s9vrxD75PzM?autoplay=1&mute=1" style="width: 100%; height: 100%;" allowfullscreen></iframe>
+          <!--<iframe src="https://www.youtube.com/embed/s9vrxD75PzM?autoplay=1&mute=1" style="width: 100%; height: 100%;" allowfullscreen></iframe>-->
+            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0V7i1txvfj9ewtX4A7uev7hDM2bneAM3k6f2q6PinWLevaTMEtQfrrzLZSdXx9W7el%26id%3D1704530979769491&width=750&show_text=false&height=423" width="100%" height="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
 
         <!-- About Us Learn More -->
@@ -287,7 +290,7 @@
             <div class="ov-content">
               <h3 class="ov-title">About Us</h3>
               <p class="ov-description">The College envisions to become a multi veterinary institution dedicated to countryside development by providing excellent veterinary education to produce graduates equipped with technical, entrepreneurial, managerial, and leadership skills necessary for optimum animal production. </p>
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
@@ -304,7 +307,7 @@
             <div class="ov-content">
               <h3 class="ov-title">Research & Publications</h3>
               <p class="ov-description">CVSM is housed in two main facilities: the CVSM main building and the Veterinary Teaching Hospital. Both are equipped with lecture halls and laboratory facilities for conducive and collaborative learning of students.</p>
-              <a href="#" class="btn btn-primary">Learn More</a>
+              <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
             </div>
           </div>
         </div>
