@@ -14,8 +14,11 @@
     <!-- Offcanvas Sidebar -->
     <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarNav" aria-labelledby="navbarNavLabel">
       <div class="offcanvas-header">
-        <h5 class="offcanvas-title" id="navbarNavLabel">Menu</h5>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        <button type="button" class="custom-close" data-bs-dismiss="offcanvas" aria-label="Close">
+          <span class="custom-close-icon"><i class="bi bi-x fs-1"></i></span>
+        </button>
+        <img src="assets/images/clsu-logo.png" alt="CVSM Logo" style="max-height: 70px; margin-top: 40px;">
+        <div></div>
       </div>
       <div class="offcanvas-body">
         <ul class="navbar-nav ms-auto">
@@ -41,7 +44,7 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Academic Programs</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">Doctor of Veterinary Medicine</a></li>
-              <li><a class="dropdown-item" href="#">Master of Veterinary Medicine</a></li>
+              <li><a class="dropdown-item" href="#">Master of Veterinary Studies</a></li>
             </ul>
           </li>
 
