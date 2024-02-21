@@ -105,7 +105,7 @@
         <div class="col-lg-8 p-3">
           <div class="d-flex justify-content-between align-items-center mb-3">
             <h5 class="section-subtitle">Latest News</h5>
-            <span><a class="navbar-brand text-muted" href="#">See all</a></span>
+            <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
           </div>
 
           <!-- News Carousel -->
@@ -258,7 +258,7 @@
                 <div class="card-body2  text-center">
                   <h5 class="card-title">Master of Veterinary Studies</h5>
                   <p class="card-text">MVSt is a 2-year post-graduate degree for veterinarians designed to specialize in either Veterinary Public Health or Veterinary Preventive Medicine.</p>
-                  <p><a class="btn btn-sm card-btn" href="#">Learn More</a></p>
+                  <p><a class="btn btn-sm card-btn" href="assets/coming-soon/index.html">Learn More</a></p>
                 </div>
             </div>
             </div>
@@ -344,7 +344,7 @@
                     </div>
                   </div>
                   
-                  <p><a class="btn btn-primary" href="#">Learn More</a></p>
+                  <p><a class="btn btn-primary" href="assets/coming-soon/index.html">Learn More</a></p>
                 </div>
 
             </div>
@@ -356,7 +356,7 @@
         <!-- Facilities Subtitle -->
         <div class="d-flex justify-content-between align-items-center">
             <h5 class="section-subtitle">Facilities</h5>
-            <span><a class="navbar-brand text-muted" href="#">See all</a></span>
+            <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
         </div>
 
 
@@ -424,7 +424,7 @@
       <!-- Section Title -->
       <div class="container d-flex justify-content-between align-items-center">
         <h3 class="section-title">DEPARTMENTS</h3>
-        <span><a class="navbar-brand text-muted" href="#">See all</a></span>
+        <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
       </div>
 
       <div class="accordion my-3 container" id="accordionPanelsStayOpenExample">
@@ -442,7 +442,7 @@
                 <div class="ov-content">
                     <h3 class="ov-title">The Department of Morphophysiology and Pharmacology</h3>
                     <p class="ov-description">Explore anatomy, physiology, and pharmacology in animals at CLSU CVSM, unraveling the intricacies of living organisms.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
             </div>
@@ -462,7 +462,7 @@
                   <div class="ov-content">
                       <h3 class="ov-title">The Department of Animal Management</h3>
                       <p class="ov-description">Delve into animal care, behavior, and welfare at CLSU CVSM, equipping students to manage diverse animal populations with compassion and skill.</p>
-                      <a href="#" class="btn btn-primary">Learn More</a>
+                      <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
                   </div>
                 </div>
               </div>
@@ -482,7 +482,7 @@
                 <div class="ov-content">
                     <h3 class="ov-title">The Department of Pathobiology</h3>
                     <p class="ov-description">Investigate disease processes in animals at CLSU CVSM, preparing students to diagnose, treat, and prevent diseases for enhanced animal health.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
             </div>
@@ -502,7 +502,7 @@
                 <div class="ov-content">
                     <h3 class="ov-title">The Department of Clinical Science</h3>
                     <p class="ov-description">Gain hands-on experience in veterinary care at CLSU CVSM, where students learn to diagnose and treat a variety of medical and surgical conditions in animals.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="assets/coming-soon/index.html" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
             </div>
@@ -521,7 +521,7 @@
       <!-- Section Title -->
       <div class="container d-flex justify-content-between align-items-center my-3">
         <h3 class="section-title">EXTENSION</h3>
-        <span><a class="navbar-brand text-muted" href="#">See all</a></span>
+        <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
       </div>
 
       <div class="container-fluid">
