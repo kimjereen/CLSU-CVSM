@@ -45,7 +45,7 @@
             <h1>COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
             <p>"Veterinarians for the Countryside"</p>
             <br>
-            <p><a class="btn btn-primary" href="assets/coming-soon/index.html">Learn More</a></p>
+            <p><a class="btn btn-primary" href="#">Learn More</a></p>
           </div>
         </div>
 
@@ -67,7 +67,7 @@
                   </div>
                   <h1>COLLEGE OF VETERINARY <br>SCIENCE AND MEDICINE</h1>
                   <p>"Veterinarians for the Countryside"</p>
-                  <p><a class="btn btn-md btn-primary" href="assets/coming-soon/index.html">Learn More</a></p>
+                  <p><a class="btn btn-md btn-primary" href="#">Learn More</a></p>
                 </div>
               </div>-->
 
@@ -107,7 +107,7 @@
         <div class="col-lg-8 p-3">
           <div class="d-flex justify-content-between align-items-center mb-3">
             <h5 class="section-subtitle">Latest News</h5>
-            <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
+            <span><a class="navbar-brand text-muted" href="#">See all</a></span>
           </div>
 
           <!-- News Carousel -->
@@ -153,7 +153,7 @@
         <div class="col-lg-4 p-3">
           <div class="d-flex justify-content-between align-items-center mb-3">
             <h5 class="section-subtitle">Upcoming Events</h5>
-            <span><a class="navbar-brand text-muted" href="assets/coming-soon/index.html">See all</a></span>
+            <span><a class="navbar-brand text-muted" href="#">See all</a></span>
           </div>
 
           <!-- The Events -->
