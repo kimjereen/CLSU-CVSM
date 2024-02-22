@@ -2,8 +2,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
   <div class="container">
     <a class="navbar-brand cvsm" href="#">
-      <img src="assets/images/cvsm-logo.png" alt="College Logo" style="width:40px;" class="rounded-pill"> 
-      CVSM
+      <img src="assets/images/cvsm-logo.png" alt="College Logo" style="width:60px;" class="rounded-pill"> 
+      
     </a>
 
     <!-- Hamburger Bar -->
@@ -21,7 +21,7 @@
         <div></div>
       </div>
       <div class="offcanvas-body">
-        <ul class="navbar-nav ms-auto">
+        <ul class="navbar-nav ms-auto fs-5">
 
           <li class="nav-item">
             <a class="nav-link active" href="#">Home</a>
@@ -36,7 +36,15 @@
               <li><a class="dropdown-item" href="#">Objectives</a></li>
               <li><a class="dropdown-item" href="#">Organization</a></li>
               <li><a class="dropdown-item" href="#">Administration</a></li>
-              <li><a class="dropdown-item" href="#">Departments</a></li>
+              <li>
+                <a class="dropdown-item dropdown-toggle" href="#" data-bs-target="dropdown" >Departments</a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
+                  <li><a class="dropdown-item" href="#">History</a></li>
+                  <li><a class="dropdown-item" href="#">Objectives</a></li>
+                  <li><a class="dropdown-item" href="#">Organization</a></li>
+                </ul>
+              </li>
             </ul>
           </li>
 
@@ -89,3 +97,5 @@
     </div>
   </div>
 </nav>
+
+

@@ -296,9 +296,14 @@
         <div class="col-lg-6 iframe-bg g-0">
           <!--<iframe src="https://www.youtube.com/embed/s9vrxD75PzM?autoplay=1&mute=1" style="width: 100%; height: 100%;" allowfullscreen></iframe>-->
           <!-- <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0V7i1txvfj9ewtX4A7uev7hDM2bneAM3k6f2q6PinWLevaTMEtQfrrzLZSdXx9W7el%26id%3D1704530979769491&show_text=false" width="100%" class="align-items-center" style="border:none; overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> -->
+            
             <div class="iframe-container">
-                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0V7i1txvfj9ewtX4A7uev7hDM2bneAM3k6f2q6PinWLevaTMEtQfrrzLZSdXx9W7el%26id%3D1704530979769491&show_text=false" class="responsive-iframe" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+              <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0V7i1txvfj9ewtX4A7uev7hDM2bneAM3k6f2q6PinWLevaTMEtQfrrzLZSdXx9W7el%26id%3D1704530979769491&width=750&show_text=false&appId=895115338865715&height=423" width="100%" height="320" class="responsive-iframe" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
             </div>
+
+            
+
+
         </div>
 
         <!-- About Us Learn More -->
