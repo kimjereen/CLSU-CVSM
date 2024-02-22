@@ -20,9 +20,9 @@
                     <p class="footer-offwhite"><i>Veterinarians for the Countryside</i>/p>
                     <!-- Social media links -->
                     <div class="social-media mb-5">
-                        <a href="#" class="me-3 text-white"><i class="bi bi-facebook"></i></a>
-                        <a href="#" class="me-3 text-white"><i class="bi bi-twitter"></i></a>
-                        <a href="#" class="text-white"><i class="bi bi-instagram"></i></a>
+                        <a href="#" class="me-3 text-white"><i class="bi bi-facebook" target="_blank"></i></a>
+                        <a href="#" class="me-3 text-white"><i class="bi bi-twitter" target="_blank"></i></a>
+                        <a href="#" class="text-white"><i class="bi bi-instagram" target="_blank"></i></a>
                     </div>
                 </div>
 
@@ -32,46 +32,43 @@
                 </div>
 
                 <div class="col">
-                <h6 class="text-white">Pages</h6>
-                <ul class="nav flex-column footer-offwhite">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Home</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">About</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Academic Programs</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Research</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Updates</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Resource & Facilities</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Extension</a></li>
-                </ul>
+                    <h6 class="text-white">Pages</h6>
+                    <ul class="nav flex-column footer-offwhite">
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Home</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">About</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Academic Programs</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Research</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Updates</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Resource & Facilities</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Extension</a></li>
+                    </ul>
                 </div>
 
                 <div class="col">
-                <h6 class="text-white">Quick Links</h6>
-                <ul class="nav flex-column footer-offwhite">
-                    <li class="nav-item mb-2"><a href="https://clsu.edu.ph/" class="nav-link p-0 ">CLSU</a></li>
-                    <li class="nav-item mb-2"><a href="https://clsu-ovpaa.edu.ph/" class="nav-link p-0 ">OVPAA</a></li>
-                    <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/" class="nav-link p-0 ">OAD</a></li>
-                    <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/star/user-login/" class="nav-link p-0 ">Student Portal</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Login</a></li>
-                </ul>
+                    <h6 class="text-white">Quick Links</h6>
+                    <ul class="nav flex-column footer-offwhite">
+                        <li class="nav-item mb-2"><a href="https://clsu.edu.ph/" class="nav-link p-0" target="_blank">CLSU</a></li>
+                        <li class="nav-item mb-2"><a href="https://clsu-ovpaa.edu.ph/" class="nav-link p-0" target="_blank">OVPAA</a></li>
+                        <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/" class="nav-link p-0" target="_blank">OAD</a></li>
+                        <li class="nav-item mb-2"><a href="https://oad.clsu2.edu.ph/star/user-login/" class="nav-link p-0" target="_blank">Student Portal</a></li>
+                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Login</a></li>
+                    </ul>
                 </div>
 
                 <div class="col">
                 <h6 class="text-white">Contact</h6>
                 <ul class="nav flex-column footer-offwhite">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Contact Us</a></li>
+                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Contact Us</a></li>
                     <li class="nav-item mb-2"><a href="#" class="me-3 text-white"><i class="bi bi-telephone-fill"></i></a>090909</li>
                     <li class="nav-item mb-2"><a href="#" class="me-3 text-white"><i class="bi bi-envelope-fill"></i></a>cvsm@clsu2.edu.ph</li>
                     <li class="nav-item mb-2"><a href="#" class="me-3 text-white"><i class="bi bi-geo-alt-fill"></i></a>University Ave., Science City of Munoz, N.E., 3119</li>
                 </ul>
                 </div>
-
-                
             </div>
             </div>
 
             <hr class="my-4">
             <div class="row">
-
                 <div class="footer-bottom">
                 <div class="container">
                     <div class="row footer-offwhite">
