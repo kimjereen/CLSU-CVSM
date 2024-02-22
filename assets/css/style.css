@@ -195,7 +195,22 @@ p {
 .carousel-control-prev, .carousel-control-next, .carousel-caption {
   z-index: 2;
 }
-
+/*Carousel Caption*/
+.hero-caption span {
+  font-size: 25px;
+}
+.hero-caption p {
+  font-size: 20px;
+}
+.hero-caption img {
+  height: 40px;
+  margin-bottom: 15px;
+}
+.hero-button .btn-dark {
+  padding: 2px 15px;
+  border-radius: 20px;
+  border-style: none;
+}
 /* News and Announcement OVERVIEW */
 .section-title {
   color: var(--primary);
@@ -344,7 +359,7 @@ p {
 }
 .iframe-bg {
   background-color: var(--secondary);
-}
+}/*
 .ov-image-container {
   position: relative;
   width: 100%;
@@ -357,15 +372,38 @@ p {
   width: 100%;
   height: 100%;
   background: linear-gradient(to bottom, var(--primary-opacity), var(--secondary-opacity));
-}
+}/*
 .ov-content {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 38%;
   transform: translate(-50%, -50%);
   text-align: left;
   color: white;
   z-index: 3;
+}*/
+.ov-image-container {
+  position: relative;
+}
+.ov-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, var(--primary-opacity), var(--secondary-opacity)); 
+  z-index: 1; 
+}
+.ov-content {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-40%, -50%);
+  z-index: 2; 
+  color: white; 
+  padding: 20px; 
+  text-align: left;
+  z-index: 3; 
 }
 .ov-title {
   color: var(--tertiary);
@@ -484,13 +522,31 @@ p {
 
 @media screen and (max-width: 1100px) {
   h1 {
-      font-size: 40px;
+    font-size: 45px;
+  }
+  .hero-caption span {
+    font-size: 20px;
+  }
+  .hero-caption p {
+    font-size: 18px;
+  }
+  .hero-caption img {
+    height: 35px;
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
   h1 {
-      font-size: 30px;
+    font-size: 35px;
+  }
+  .hero-caption span {
+    font-size: 16px;
+  }
+  .hero-caption p {
+    font-size: 15px;
+  }
+  .hero-caption img {
+    height: 30px;
   }
 }
 

@@ -33,19 +33,19 @@
         </div>
 
         <div class="container">
-          <div class="carousel-caption text-start align-items-center" style="padding-bottom: 120px;">
+          <div class="carousel-caption text-start align-items-center hero-caption" style="padding-bottom: 120px;">
             <div class="row align-items-center">
               <div class="col-auto">
-                  <img src="assets/images/clsu-logo.png" alt="School Logo" class="img-fluid" style="max-height: 30px; margin-bottom: 15px;">
+                  <img src="assets/images/clsu-logo.png" alt="School Logo" class="img-fluid">
               </div>
               <!-- Column for the school name -->
-              <div class="col" style="margin-left: -15px; margin-bottom: 13px;">
+              <div class="col" style="margin-left: -10px; margin-bottom: 13px;">
                   <span>Central Luzon State University</span>
               </div>
             </div>
-            <h1>COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
+              <h1>COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
             <br>
-            <span>"Veterinarians for the Countryside"</p>
+              <p><i>Veterinarians for the Countryside</i></p>
             <br>
             <p><a class="btn btn-primary" href="#">Learn More</a></p>
           </div>
@@ -82,8 +82,8 @@
           </div>
           <div class="carousel-item">
               <img src="assets/images/temporary/main-gate.JPG" alt="carousel 3" class="d-block w-100 vh-100 object-fit-cover">
-              <div class="carousel-caption">
-                <p><a href="https://clsu.edu.ph/" class="btn btn-lg btn-success" target="_blank" >VISIT CLSU WEBSITE</a></p>
+              <div class="carousel-caption hero-button">
+                <a href="https://clsu.edu.ph/" class="btn btn-sm btn-dark" target="_blank">VISIT CLSU WEBSITE</a>
               </div>
           </div>
         </div>
@@ -268,7 +268,7 @@
           <div class="col-md-6">
           <div class="container">
             <div class="card rounded">
-                <img src="assets/images/temporary/CVSM_3.jpg" class="img-fluid" alt="Image">
+                <img src="assets/images/temporary/MVSt - 1.jpg" class="img-fluid" alt="Image">
                 <div class="card-overlay"></div>
                 <div class="card-body  text-center">
                   <h5 class="card-title">Master of Veterinary Studies</h5>
@@ -330,7 +330,7 @@
             <div class="ov-overlay"></div>
             <div class="ov-content">
               <h3 class="ov-title">Research & Publications</h3>
-              <p class="ov-description">CVSM is housed in two main facilities: the CVSM main building and the Veterinary Teaching Hospital. Both are equipped with lecture halls and laboratory facilities for conducive and collaborative learning of students.</p>
+              <p class="ov-description">Our researches focus on transboundary and zoonotic animal disease, disease profiling, antimicrobial resistance and test kit development to address industry-need solutions.</p>
               <a href="#" class="btn btn-primary">Learn More</a>
             </div>
           </div>
@@ -338,7 +338,7 @@
 
         <!-- Research & Publications Picture-->
         <div class="col-lg-6">
-          <img src="assets/images/temporary/sir errol.jpg" class="img-fluid" alt="Picture 4">
+          <img src="assets/images/temporary/Research - centrifuge.jpg" class="img-fluid" alt="Picture 4">
         </div>
       </div>
     </div>
@@ -355,17 +355,15 @@
 
       <!-- Resources -->
       <div class="container-fluid my-3">
-        <h5 class="section-subtitle">Resources</h5>
-
           <!-- The Events -->
           <div class="container-fluid my-4">
             <div class="calendar row rounded align-items-center pt-4 pb-3 px-5">
                 <div class="col-sm-10">
                   <div class="row event-des-title align-items-end">
-                        <h6>At CLSU CVSM, students are equipped with tools to excel in veterinary medicine.</h6>
+                        <h6></h6>
                     </div>
                     <div class="row event-des-text align-items-start">
-                        <p>By its extensive array of resources and state-of-the-art facilities dedicated to advancing veterinary education, research, and clinical practice. These resources play a pivotal role in providing students with hands-on training, facilitating cutting-edge research, and delivering high-quality veterinary care to animals.</p>
+                        <p>CVSM is housed in two main facilities: the CVSM main building and the Veterinary Teaching Hospital. Both are equipped with lecture halls and laboratory facilities for conducive and collaborative learning of students.</p>
                     </div>
                 </div>
                 <div class="col-lg-2">
@@ -379,7 +377,7 @@
       <div class="container-fluid my-5">
         <!-- Facilities Subtitle -->
         <div class="d-flex justify-content-between align-items-center">
-            <h5 class="section-subtitle">Facilities</h5>
+            <div></div>
             <span><a class="navbar-brand text-muted" href="#">See all</a></span>
         </div>
 
@@ -464,8 +462,8 @@
               <div id="accordion-img" class="accordion-img">
                   <img src="assets/images/temporary/bones.jpg" class="img-fluid" alt="Picture 4">
                   <div class="ov-content">
-                      <h3 class="ov-title">The Department of Morphophysiology and Pharmacology</h3>
-                      <p class="ov-description">Explore anatomy, physiology, and pharmacology in animals at CLSU CVSM, unraveling the intricacies of living organisms.</p>
+                      <h3 class="ov-title">Department of Morphophysiology and Pharmacology</h3>
+                      <p class="ov-description">Explore anatomy, physiology, and pharmacology in animals, unraveling the intricacies of living organisms.</p>
                       <a href="#" class="btn btn-primary">Learn More</a>
                   </div>
                 </div>
@@ -485,8 +483,8 @@
               <div id="accordion-img" class="accordion-img">
                 <img src="assets/images/temporary/Student - milking.jpeg" class="img-fluid" alt="Picture 4">
                 <div class="ov-content">
-                    <h3 class="ov-title">The Department of Animal Management</h3>
-                    <p class="ov-description">Delve into animal care, behavior, and welfare at CLSU CVSM, equipping students to manage diverse animal populations with compassion and skill.</p>
+                    <h3 class="ov-title">Department of Animal Management</h3>
+                    <p class="ov-description">Delve into animal care, behavior, and welfare, equipping students to manage diverse animal populations with compassion and skill.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
@@ -506,8 +504,8 @@
               <div id="accordion-img" class="accordion-img">
                 <img src="assets/images/temporary/Student - fish.jpeg" class="img-fluid" alt="Picture 4">
                 <div class="ov-content">
-                    <h3 class="ov-title">The Department of Pathobiology</h3>
-                    <p class="ov-description">Investigate disease processes in animals at CLSU CVSM, preparing students to diagnose, treat, and prevent diseases for enhanced animal health.</p>
+                    <h3 class="ov-title">Department of Pathobiology</h3>
+                    <p class="ov-description">Investigate disease processes in animals, preparing students to diagnose, treat, and prevent diseases for enhanced animal health.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
               </div>
@@ -526,8 +524,8 @@
             <div id="accordion-img" class="accordion-img">
               <img src="assets/images/temporary/Student- centrifuge.jpeg" class="img-fluid" alt="Picture 4">
               <div class="ov-content">
-                  <h3 class="ov-title">The Department of Clinical Science</h3>
-                  <p class="ov-description">Gain hands-on experience in veterinary care at CLSU CVSM, where students learn to diagnose and treat a variety of medical and surgical conditions in animals.</p>
+                  <h3 class="ov-title">Department of Clinical Science</h3>
+                  <p class="ov-description">Gain hands-on experience in veterinary care, where students learn to diagnose and treat a variety of medical and surgical conditions in animals.</p>
                   <a href="#" class="btn btn-primary">Learn More</a>
               </div>
             </div>
@@ -568,7 +566,7 @@
               </div>
               <div class="col">
                   <div class="card rounded">
-                      <img src="assets/images/temporary/cattle.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
+                      <img src="assets/images/temporary/Student - Cattle Dispersal.jpg" class="img-fluid d-block w-100 h-100 object-fit-cover" alt="Image 3">
                       <div class="card-overlay"></div>
 
                       <div class="card-logo-container d-flex">
