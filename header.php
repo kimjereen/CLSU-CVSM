@@ -1,3 +1,21 @@
+<style>
+    .dropdown-menu li {
+  position: relative;
+}
+.dropdown-menu .dropdown-submenu {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: -7px;
+}
+.dropdown-menu .dropdown-submenu-left {
+  right: 100%;
+  left: auto;
+}
+.dropdown-menu > li:hover > .dropdown-submenu {
+  display: block;
+}
+</style>
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
   <div class="container">
@@ -36,23 +54,72 @@
               <li><a class="dropdown-item" href="#">Objectives</a></li>
               <li><a class="dropdown-item" href="#">Organization</a></li>
               <li><a class="dropdown-item" href="#">Administration</a></li>
-              <li>
-                <a class="dropdown-item dropdown-toggle" href="#" data-bs-target="dropdown" >Departments</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
-                  <li><a class="dropdown-item" href="#">History</a></li>
-                  <li><a class="dropdown-item" href="#">Objectives</a></li>
-                  <li><a class="dropdown-item" href="#">Organization</a></li>
-                </ul>
+              <li class="nav-item dropend">
+                  <a class="dropdown-item dropdown-toggle" href="#">
+                    Departments
+                  </a>
+                  <ul class="dropdown-menu dropdown-submenu">
+                    <li>
+                      <a class="dropdown-item" href="#">Morphophysiology</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Animal Management</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Pathobiology</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Clinical Sciences</a>
+                    </li>
+                  </ul>
               </li>
+              <li><a class="dropdown-item" href="#">Achievemnts</a></li>
+              
+                
             </ul>
           </li>
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Academic Programs</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Doctor of Veterinary Medicine</a></li>
-              <li><a class="dropdown-item" href="#">Master of Veterinary Studies</a></li>
+              <li class="nav-item dropend">
+                  <a class="dropdown-item dropdown-toggle" href="#">
+                    Doctor of Veterinary Medicine
+                  </a>
+                  <ul class="dropdown-menu dropdown-submenu">
+                    <li>
+                      <a class="dropdown-item" href="#">Program Educational Objective</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Admission</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Program of Study</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Prerequisite Map</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Prospectus</a>
+                    </li>
+                  </ul>
+              </li>
+              <li class="nav-item dropend">
+                  <a class="dropdown-item dropdown-toggle" href="#">
+                    Master of Veterinary Studies
+                  </a>
+                  <ul class="dropdown-menu dropdown-submenu">
+                    <li>
+                      <a class="dropdown-item" href="#">Admission</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Program of Study</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="#">Prospectus</a>
+                    </li>
+                  </ul>
+              </li>
             </ul>
           </li>
 
@@ -97,5 +164,4 @@
     </div>
   </div>
 </nav>
-
 

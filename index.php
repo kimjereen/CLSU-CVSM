@@ -10,6 +10,10 @@
     <!-- Bootstrap 5  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- JQuery  -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <!-- icon -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -34,18 +38,16 @@
 
         <div class="container">
           <div class="carousel-caption text-start align-items-center hero-caption" style="padding-bottom: 120px;">
-            <div class="row align-items-center">
-              <div class="col-auto">
-                  <img src="assets/images/clsu-logo.png" alt="School Logo" class="img-fluid">
-              </div>
-              <!-- Column for the school name -->
-              <div class="col" style="margin-left: -10px; margin-bottom: 13px;">
-                  <span>Central Luzon State University</span>
-              </div>
+            
+            <div class="d-flex flex-container align-items-center mb-1">
+                <img src="assets/images/clsu-logo.png" alt="School Logo" class="img-fluid hero-logo" style="width: 35px; height: auto; margin-right: 10px;">
+                <span college="hero-univ">Central Luzon State University</span>
             </div>
-              <h1>COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
+            
+            
+              <h1 college="hero-college">COLLEGE OF VETERINARY SCIENCE AND MEDICINE</h1>
             <br>
-              <p><i>Veterinarians for the Countryside</i></p>
+              <p college="hero-quote"><i>Veterinarians for the Countryside</i></p>
             <br>
             <p><a class="btn btn-primary" href="#">Learn More</a></p>
           </div>
@@ -606,10 +608,7 @@
 
     <!-- Include footer.php -->
     <?php include 'footer.php'; ?>
-    <!-- Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
     <!-- Custom JavaScript -->
     <script src="assets/js/scripts.js"></script>
     <script type="text/javascript">

@@ -17,7 +17,7 @@
                     <!-- Horizontal line -->
                     <hr class="bg-white">
                     <!-- Short intro -->
-                    <p class="footer-offwhite"><i>Veterinarians for the Countryside</i>/p>
+                    <p class="footer-offwhite"><i>Veterinarians for the Countryside</i></p>
                     <!-- Social media links -->
                     <div class="social-media mb-5">
                         <a href="#" class="me-3 text-white"><i class="bi bi-facebook" target="_blank"></i></a>

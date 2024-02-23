@@ -138,6 +138,8 @@ p {
 .navbar .nav-link.active {
   color: var(--tertiary);
 }
+
+/* Toggler and Offcanvas */
 .navbar-toggler {
   border: none;
   background-color: transparent;
@@ -170,6 +172,9 @@ p {
 .navbar.scrolled .custom-close {
   color: black;
 }
+
+
+/* Dropdown */
 .navbar .dropdown-menu {
   background-color: var(--gray-opacity);
 }
@@ -185,6 +190,11 @@ p {
 .navbar.scrolled .dropdown-item {
   color: black;
 }
+
+/* Dropdown submenu */
+
+    
+    
 /* 03. HOME */
 /* Home Carousel Slides OVERVIEW */
 /* Home Gradient */
@@ -196,13 +206,13 @@ p {
   z-index: 2;
 }
 /*Carousel Caption*/
-.hero-caption span {
+.hero-univ span {
   font-size: 25px;
 }
-.hero-caption p {
+.hero-quote p {
   font-size: 20px;
 }
-.hero-caption img {
+.hero-caption .hero-logo img {
   height: 40px;
   margin-bottom: 15px;
 }
@@ -540,10 +550,10 @@ p {
     font-size: 35px;
   }
   .hero-caption span {
-    font-size: 16px;
+    font-size: 18px;
   }
   .hero-caption p {
-    font-size: 15px;
+    font-size: 17px;
   }
   .hero-caption img {
     height: 30px;
